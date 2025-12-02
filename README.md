@@ -72,12 +72,13 @@ Redesigned a 150-page installation guide to enhance structure, improve relevance
 ## Technical Writing Samples
 
 ### Sample 1: HPE Installtion Guide 
-**Description**: This version was completely revamped by me
-**Link**: https://support.hpe.com/hpesc/public/docDisplay?docId=a00078754en_us&docLocale=en_US
+**Description**: This version of the guide was completely revamped by me
+  
+   https://support.hpe.com/hpesc/public/docDisplay?docId=a00078754en_us&docLocale=en_US
 
 ### Sample 2: Portworx Documentation
 **Description**: Listing various sections that were documented by me
-**Link**: 
+
 - https://docs.portworx.com/portworx-enterprise/platform/install/vsphere/ocp-vsphere-airgap
 - https://docs.portworx.com/portworx-enterprise/platform/install/vsphere/kubernetes-vsphere-airgap
 - https://docs.portworx.com/portworx-enterprise/concepts/storage-vmotion
@@ -87,7 +88,7 @@ Redesigned a 150-page installation guide to enhance structure, improve relevance
 
 ### Sample 3: Broadcom Documentation
 **Description**: A few features documented by me
-**Link**: All the topics in this sections
+All the topics in this sections
 - https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/vdefend/security-services-platform/5-1/onboarding-and-managing-platform/platform-certificates.html
 - https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/vdefend/security-services-platform/5-1/overview-of-nsx-intelligence/understanding-segmentation-monitoring/segmenting-environment-pairs.html
 
@@ -168,4 +169,5 @@ With 10 years of experience in technical writing, I believe that great documenta
 - **User-Centered Design**: Conducting usability testing and gathering feedback to ensure documentation meets user needs and reduces support queries
 
 My documentation has resulted in improved user adoption, reduced support queries, and enhanced customer satisfaction across multiple domains including Kubernetes, Storage, Semiconductors, Software, and Networking.
+
 
