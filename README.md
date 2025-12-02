@@ -1,163 +1,171 @@
 # Ruchi Duggal - Technical Writer Portfolio
+Senior Technical Writer with 10 years of experience delivering user-focused documentation across different domains, resulting in improved user adoption, reduced support queries, and enhanced customer satisfaction. Skilled at simplifying complex technical concepts for diverse audiences.
 
-A modern, responsive portfolio website showcasing professional experience, achievements, and skills as a Senior Technical Writer.
+### Specializations
+- Kubernetes Application Documentation
+- Storage Systems Documentation
+- Semiconductor Documentation
+- Software Documentation
+- Networking Documentation
+- API Documentation
+- User Guides
+- CLI or Developer Documentation
 
-## Features
+### Key Strengths
+- Adaptable
+- Detail-oriented
+- Collaborative
+- Effective communicator
+- Process improvement driver
+- Cross-departmental contributor
 
-- 🎨 Modern, clean design with smooth animations
-- 📱 Fully responsive (mobile, tablet, desktop)
-- ⚡ Fast loading with optimized performance
-- 🎯 Easy navigation with smooth scrolling
-- ♿ Accessible and SEO-friendly
+## Connect With Me
+- 🌐 **Portfolio/Website**: https://github.com/ruchi-techwriter/ruchi-portfolio
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ruchi-duggal-446ba0101/
+- 📧 **Email**: ruchi13duggal@gmail.com
 
-## Technologies Used
 
-- HTML5
-- CSS3 (with CSS Variables)
-- Vanilla JavaScript
-- Google Fonts (Inter)
+## Key Achievements
+### Streamlined Release Notes Process
+Transformed a chaotic and unstructured process into a streamlined approach for documenting bugs for releases. Developed a structured workflow that minimized dependencies on SMEs, reduced documentation turnaround time by 40%, and ensured the timely delivery of accurate release notes.
 
-## Getting Started
+### Automated Versions Updates
+Created YAML structures to centralize platform version data and developed a React component to dynamically display this information across the documentation site. This reduced version update errors by 90% and cut review time.
 
-### Local Development
+### Single-Sourcing Success
+Spearheaded a single-sourcing initiative by automating common content consolidation and applying conditionals to reduce redundancy. It decreased the manual effort required to create shared files by 70% across 19 guides.
 
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-url>
-   cd portfolio
-   ```
+### Manpage Quality Enhancement
+Trained and mentored a team to improve manpages, significantly reducing backlogs by 60% and earning leadership recognition for significantly enhancing technical accuracy and usability.
 
-2. Open `index.html` in your web browser, or use a local server:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js (if you have http-server installed)
-   npx http-server
-   ```
+### Revamped Installation Guide
+Redesigned a 150-page installation guide to enhance structure, improve relevance, and eliminate duplicate information, resulting in a user-friendly experience, reducing the support queries related to installation by 30%.
 
-3. Navigate to `http://localhost:8000` in your browser
+## Professional Experience
 
-## Deploying to GitHub Pages
+### Senior Technical Writer | Broadcom | Palo Alto, CA
+**April 2025 – Current**
+- Overhauled the release notes process by partnering with Program Management to eliminate workflow gaps, which resulted in a more efficient review cycle and higher quality documentation
+- Championed the adoption of Generative AI use cases, empowering the team to accelerate documentation creation and achieve the lowest bug count of the quarter
 
-### Method 1: Using GitHub's Web Interface
+### Technical Writer 4 | Pure Storage | Santa Clara, CA
+**May 2022 – March 2025**
+- Spearheaded documentation for the CLI-based product, integrating Gen AI into workflows to streamline content creation, enhance usability, and maintain quality under tight release deadlines in a rapidly evolving scope, using tools for a "Docs-as-Code" approach
+- Collaborated with field engineers and CNAs to improve installation workflows and high-traffic feature documentation across platforms. Conducted usability testing to ensure clarity and relevance, resulting in a significant reduction in support calls
+- Designed a standardized release notes template aligned with Pure Storage standards, enhancing clarity and providing customers with a comprehensive overview of each release
+- Partnered with the marketing team to enhance content discoverability by optimizing keywords and metadata, improving searchability and user engagement
 
-1. **Create a new repository** on GitHub (e.g., `portfolio` or `ruchi-duggal-portfolio`)
+### Technical Writer 2 | Synopsys | Bangalore, India
+**April 2019 – December 2021**
+- Championed mid-sized documentation projects for Fusion Compiler, leveraging functional specifications, proofreading content developed by other writers, and ensuring adherence to timelines to enhance content quality and usability
+- Optimized manpage workflows, significantly improving content quality and supporting Synopsys users effectively
+- Conducted internal testing for a new LMS portal, identifying and reporting bugs via Jira to enhance the user experience
+- Converted 300 pages of unstructured content into XML, enabling scalability and consistent formatting
 
-2. **Upload your files** to the repository:
-   - `index.html`
-   - `styles.css`
-   - `script.js`
-   - `README.md` (optional)
+### Information Developer | Hewlett Packard Enterprise | Bangalore, India
+**March 2016 – March 2019**
+- Delivered user-friendly documentation in an agile environment, adhering to DITA standards and enhancing clarity with infographics
+- Streamlined review processes by facilitating live editing sessions with Dev and QA teams for efficiency
+- Reduced user guide size by integrating reference tables into UI tooltips, improving the user experience with in-context information
+- Mentored new hires through the buddy program, fostering effective onboarding and collaboration
 
-3. **Enable GitHub Pages**:
-   - Go to your repository on GitHub
-   - Click on **Settings**
-   - Scroll down to **Pages** section (in the left sidebar)
-   - Under **Source**, select **Deploy from a branch**
-   - Choose **main** (or **master**) branch
-   - Select **/ (root)** folder
-   - Click **Save**
+## Technical Writing Samples
 
-4. **Access your site**:
-   - Your portfolio will be available at: `https://<your-username>.github.io/<repository-name>`
-   - It may take a few minutes for the site to be live
+### Sample 1: HPE Installtion Guide 
+**Description**: This version was completely revamped by me
+**Link**: https://support.hpe.com/hpesc/public/docDisplay?docId=a00078754en_us&docLocale=en_US
 
-### Method 2: Using Git Command Line
+### Sample 2: Portworx Documentation
+**Description**: Listing various sections that were documented by me
+**Link**: 
+- https://docs.portworx.com/portworx-enterprise/platform/install/vsphere/ocp-vsphere-airgap
+- https://docs.portworx.com/portworx-enterprise/platform/install/vsphere/kubernetes-vsphere-airgap
+- https://docs.portworx.com/portworx-enterprise/concepts/storage-vmotion
+- All the topics in this sections 
+   - https://docs.portworx.com/portworx-enterprise/operations/disaster-recovery
+   - https://docs.portworx.com/portworx-enterprise/platform/install/pure-storag
 
-1. **Initialize Git repository** (if not already done):
-   ```bash
-   git init
-   ```
+### Sample 3: Broadcom Documentation
+**Description**: A few features documented by me
+**Link**: All the topics in this sections
+- https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/vdefend/security-services-platform/5-1/onboarding-and-managing-platform/platform-certificates.html
+- https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/vdefend/security-services-platform/5-1/overview-of-nsx-intelligence/understanding-segmentation-monitoring/segmenting-environment-pairs.html
 
-2. **Add all files**:
-   ```bash
-   git add .
-   ```
 
-3. **Commit your files**:
-   ```bash
-   git commit -m "Initial portfolio commit"
-   ```
+### Documentation Projects
 
-4. **Add your GitHub repository as remote**:
-   ```bash
-   git remote add origin https://github.com/<your-username>/<repository-name>.git
-   ```
+#### CLI-Based Product Documentation | Pure Storage
+**Description**: Comprehensive documentation for CLI-based product, integrating Gen AI into workflows to streamline content creation and maintain quality under tight release deadlines using a "Docs-as-Code" approach.
+**Technologies**: GitHub, Generative AI, Markdown, Static Site Generators
+**Highlights**:
+- Enhanced usability and maintained quality under tight release deadlines
+- Integrated Gen AI into documentation workflows
+- Reduced support calls through improved clarity and relevance
 
-5. **Push to GitHub**:
-   ```bash
-   git branch -M main
-   git push -u origin main
-   ```
+#### Fusion Compiler Documentation | Synopsys
+**Description**: Mid-sized documentation projects for Fusion Compiler, leveraging functional specifications and ensuring adherence to timelines to enhance content quality and usability.
+**Technologies**: FrameMaker, XML, DITA Framework
+**Highlights**:
+- Leveraged functional specifications for accurate documentation
+- Proofread content developed by other writers
+- Ensured adherence to timelines
 
-6. **Enable GitHub Pages** (follow steps 3-4 from Method 1)
+#### Installation Guide Redesign
+**Description**: Redesigned a 150-page installation guide to enhance structure, improve relevance, and eliminate duplicate information, resulting in a user-friendly experience.
+**Technologies**: FrameMaker, Adobe Photoshop, Visio
+**Highlights**:
+- Reduced support queries related to installation by 30%
+- Enhanced structure and improved relevance
+- Eliminated duplicate information
 
-## Customization
+### Code-Adjacent Projects
 
-### Update Personal Information
+#### Automated Version Management System
+**Description**: Created YAML structures to centralize platform version data and developed a React component to dynamically display this information across the documentation site.
+**Technologies**: YAML, React, JavaScript, GitHub
+**Key Features**:
+- Centralized platform version data
+- Dynamic display across documentation site
+- Reduced version update errors by 90%
+- Cut review time significantly
 
-1. **Contact Information**: Edit the contact section in `index.html` (around line 280)
-2. **Social Links**: Update LinkedIn and other social media links
-3. **Content**: Modify any section in `index.html` to reflect your latest information
+## Technical Proficiency
 
-### Change Colors
+### Technical Writing Tools
+FrameMaker, Perforce Arbortext Editor, Vasont Systems, SDL Tridion Docs, XMetal Editor, Acrobat DC, DITA Framework, Adobe Photoshop, Articulate Storyline, Visio, Swagger, Jira, JQL, Cursor, Gen AI
 
-Edit the CSS variables in `styles.css` (at the top of the file):
+### Static Site Generators & Web Development
+ GitHub, Generative AI, React Components, Static Site Generators (Docusaurus and Hugo)
 
-```css
-:root {
-    --primary-color: #2563eb;      /* Main brand color */
-    --primary-dark: #1e40af;        /* Darker shade */
-    --secondary-color: #64748b;     /* Secondary color */
-    --text-color: #1e293b;          /* Main text color */
-    --text-light: #64748b;          /* Light text color */
-    --bg-color: #ffffff;            /* Background color */
-    --bg-alt: #f8fafc;              /* Alternate background */
-}
-```
+### Programming & Markup Languages
+ Markdown, XML, YAML, JSON, HTML, CSS, Python, JavaScript, API documentation, working knowledge of UNIX
 
-### Update Hero Section
+### Methodologies & Practices
+- Agile/Scrum methodologies
+- Docs-as-Code approach
+- Single-sourcing
+- User-centered design
+- Usability testing
 
-Modify the hero section gradient in `styles.css`:
+### Soft Skills
+- Stakeholder collaboration
+- Cross-functional team leadership
+- Attention to detail
+- User-centered design
+- Leadership and mentoring
+- Adaptability
+- Analytical mindset
 
-```css
-.hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-}
-```
 
-## File Structure
+## Writing Philosophy
 
-```
-portfolio/
-│
-├── index.html          # Main HTML file
-├── styles.css          # All styling
-├── script.js           # JavaScript functionality
-└── README.md           # This file
-```
+With 10 years of experience in technical writing, I believe that great documentation is user-focused, clear, and accessible. My approach centers on:
 
-## Browser Support
+- **Simplifying Complexity**: Breaking down complex technical concepts into digestible, actionable content for diverse audiences
+- **Process Improvement**: Continuously refining documentation workflows to reduce errors, save time, and improve quality
+- **Collaboration**: Working closely with cross-functional teams, SMEs, and stakeholders to ensure accuracy and relevance
+- **Automation & Innovation**: Leveraging tools like Generative AI, React components, and automation to streamline documentation processes
+- **User-Centered Design**: Conducting usability testing and gathering feedback to ensure documentation meets user needs and reduces support queries
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-## License
-
-This portfolio is open source and available for personal use.
-
-## Contact
-
-- **Email**: ruchi13duggal@gmail.com
-- **Phone**: +1 (925) 819 7621
-- **LinkedIn**: [linkedin.com/in/ruchi-duggal-446ba0101](https://www.linkedin.com/in/ruchi-duggal-446ba0101)
-- **Location**: Fremont, CA
-
----
-
-**Note**: Remember to update your contact information and any other personal details before deploying!
+My documentation has resulted in improved user adoption, reduced support queries, and enhanced customer satisfaction across multiple domains including Kubernetes, Storage, Semiconductors, Software, and Networking.
 
